@@ -2,6 +2,8 @@
 
 **磐石架构** — *idem* (the same) + *stasis* (standing).
 
+English | [简体中文](README.zh-CN.md)
+
 An open research direction: treating the **continuity of an AI's identity** as
 something that can be *measured*, rather than something asserted in a prompt.
 
@@ -100,10 +102,12 @@ organization** — that is the only channel I am opening for now.
 ## Status
 
 Early, and deliberately so. What exists publicly today is the by-products —
-environment traps, negative results, and checklists. The research method
-will be the next thing I publish. The architecture is being built and is not
-public. I will keep publishing the by-products as I go, including the ones
-that do not flatter me.
+environment traps, negative results, and checklists — and now the method:
+**[identity-probe-toy](https://github.com/Idemstasis/identity-probe-toy)**
+is a method note with a runnable toy showing what measuring identity
+continuity looks like, and what a consistency score alone cannot tell you.
+The architecture is being built and is not public. I will keep publishing
+the by-products as I go, including the ones that do not flatter me.
 
 ---
 
