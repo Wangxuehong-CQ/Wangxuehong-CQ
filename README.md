@@ -62,11 +62,11 @@ this is not it, and I would rather you knew that in the first paragraph.
 Two small, self-contained repositories. Both runnable, neither depending on
 anything above, and neither one requiring you to trust me:
 
-- **[cpu-torch-segfault-bisect](https://github.com/Idemstasis/cpu-torch-segfault-bisect)**
+- **[cpu-torch-segfault-bisect](https://github.com/Wangxuehong-CQ/cpu-torch-segfault-bisect)**
   — a reproducible environment trap: a loss routed through a large vocabulary
   projection can terminate the process with no traceback. Contains the
   minimal reproduction and the bisection.
-- **[experiment-hygiene](https://github.com/Idemstasis/experiment-hygiene)**
+- **[experiment-hygiene](https://github.com/Wangxuehong-CQ/experiment-hygiene)**
   — four checks that catch a metric announcing a capability that is not there,
   with two runnable toys and a retraction procedure. A real, in-place
   correction of one of my own statements lives in the other repository,
@@ -94,8 +94,8 @@ I am looking for three kinds of counterpart:
 - **organisations** with a real need for long-horizon continuity, whose
   requirements should shape what gets measured.
 
-If one of those is you: open a thread in **GitHub Discussions under this
-organization** — that is the only channel I am opening for now.
+If one of those is you: open a thread in **GitHub Discussions on the profile
+repository** — that is the only channel I am opening for now.
 
 ## Status
 
