@@ -50,10 +50,10 @@
 
 两个小仓库，各自独立、都能跑，都不依赖上面说的任何东西，也都不需要你信我：
 
-- **[cpu-torch-segfault-bisect](https://github.com/Idemstasis/cpu-torch-segfault-bisect)**
+- **[cpu-torch-segfault-bisect](https://github.com/Wangxuehong-CQ/cpu-torch-segfault-bisect)**
   —— 一个可复现的环境坑：一条经过大词表投影的 loss，能把进程直接干掉、
   且**不打印任何 traceback**。仓库里有最小复现和二分定位过程。
-- **[experiment-hygiene](https://github.com/Idemstasis/experiment-hygiene)**
+- **[experiment-hygiene](https://github.com/Wangxuehong-CQ/experiment-hygiene)**
   —— 四条检查，用来抓住"指标在宣告一个根本不存在的能力"，配两个能跑的玩具
   和一套撤回流程。**我真实地在原处更正过自己一处表述的记录，在另一个仓库
   的 "Operational note" 一节。**
@@ -75,7 +75,7 @@
 - **有真实需求的组织**——长期一致性是你们的硬需求，你们的要求应该参与决定
   "到底该测什么"。
 
-如果你是其中一种：**在本组织的 GitHub Discussions 开一个帖**——
+如果你是其中一种：**在主页仓库的 GitHub Discussions 开一个帖**——
 这是我目前唯一开放的入口。
 
 ## 现状
